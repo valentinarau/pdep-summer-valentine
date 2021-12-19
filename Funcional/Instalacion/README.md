@@ -22,13 +22,9 @@ Todavía nos falta instalar Haskell mismo, y vamos a usar Stack para eso.
 
 1. El primer paso ahora es bajarse este repositorio. Para eso debemos copiar el link que nos muestra al hacer click en `Clone or download`
 
-![Clickeando en Clone or Download, muestra el link de descarga](https://i.imgur.com/oqv4XFW.gif)
-
 2. Abrimos la consola de git, para eso, buscamos el programa Git Bash que debería haberse instalado.
 Cuando estan usando la consola, siempre están ubicados en alguna carpeta. Lo más probable es que la carpeta en la que estén por defecto sea la misma que cuando en el explorador de Windows adentro tiene las carpetas de Escritorio, Descargas, Documentos, etc.
 Para chequear eso pueden usar uno de estos dos comandos que sirven para ver que hay en una carpeta: `dir` o `ls`.
-(ignoren que el usuario se llama Garbarino)
-![Captura de pantalla de Git Bash](https://i.imgur.com/zqQLjuO.png)
 
 3. Usando la consola, nos movemos hacia la carpeta en la cual queremos descargar el ejercicio usando el comando `cd`.*
 
