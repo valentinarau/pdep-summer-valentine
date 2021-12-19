@@ -1,7 +1,4 @@
-# TP-0 de Funcional
-
-Hola!,
-la idea de este trabajo práctico es ganar un poco de tiempo instalando lo que vamos a usar durante la primera parte de la materia.
+# Funcional -- Instalación
 
 ## ¿Qué hay que instalar?
 
