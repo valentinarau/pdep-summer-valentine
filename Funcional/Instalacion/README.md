@@ -1,6 +1,21 @@
-# Funcional -- Instalación
+# TP-0 de Funcional
+
+Hola!,
+la idea de este trabajo práctico es ganar un poco de tiempo instalando lo que vamos a usar durante la primera parte de la materia.
 
 ## ¿Qué hay que instalar?
+
+### Git
+
+git es una herramienta que vamos a usar a lo largo de toda la materia en los 3 paradigmas que vamos a ver.
+En una de las primeras clases les vamos a explicar mejor para qué sirve y cómo lo vamos a usar.
+Por ahora, lo que necesitan saber sobre git es que lo van a usar para bajarse los trabajos prácticos y luego subirlos a medida que los van resolviendo.
+
+Link para descargar Git: https://git-scm.com/downloads
+
+Si lo descargan en windows, asegurense de marcar Git Bash en lo que instalan, eso es para usarlo desde la consola.
+
+Git se puede usar por línea de comandos o con una interfaz gráfica. En este primer ejercicio vamos a mostrar como usarlo por línea de comandos.
 
 ### Stack
 
@@ -14,6 +29,10 @@ https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell
 
 ### Editor de texto
 
+Lo que vamos a usar para literalmente escribir el código, para Haskell hay varias alternativas, nosotros recomendamos Visual Studio Code.
+
+Dejo un link a una guía ya escrita para otro curso que está muy bien explicada: https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/entorno.md#editor-de-texto
+
 Si van a usar Visual Studio Code asegurense de instalar el plugin `Haskell` (https://marketplace.visualstudio.com/items?itemName=haskell.haskell), va a hacer que sea mucho más feliz programar en el lenguaje.
 
 ## Ya descargué todo, ¿y ahora qué?
@@ -22,9 +41,13 @@ Todavía nos falta instalar Haskell mismo, y vamos a usar Stack para eso.
 
 1. El primer paso ahora es bajarse este repositorio. Para eso debemos copiar el link que nos muestra al hacer click en `Clone or download`
 
+![Clickeando en Clone or Download, muestra el link de descarga](https://i.imgur.com/oqv4XFW.gif)
+
 2. Abrimos la consola de git, para eso, buscamos el programa Git Bash que debería haberse instalado.
 Cuando estan usando la consola, siempre están ubicados en alguna carpeta. Lo más probable es que la carpeta en la que estén por defecto sea la misma que cuando en el explorador de Windows adentro tiene las carpetas de Escritorio, Descargas, Documentos, etc.
 Para chequear eso pueden usar uno de estos dos comandos que sirven para ver que hay en una carpeta: `dir` o `ls`.
+(ignoren que el usuario se llama Garbarino)
+![Captura de pantalla de Git Bash](https://i.imgur.com/zqQLjuO.png)
 
 3. Usando la consola, nos movemos hacia la carpeta en la cual queremos descargar el ejercicio usando el comando `cd`.*
 
