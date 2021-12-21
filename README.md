@@ -4,7 +4,7 @@ Bienvenidx, este es un espacio donde voy a compartir mi curso sobre la Paradigma
 ## Como va a ser el curso?
 
 ### ✿ Introduccion
-En la siguiente presentacion, introducire los principales paradigmas, conceptos fundamentales y transversales a la materia
+En la siguiente presentacion, introducire los principales paradigmas, conceptos fundamentales y transversales a la materia <br>
 Link: https://docs.google.com/presentation/d/1u7GGNxO8wPSYDEu63R-BXcCFPnksZjcytdzWYj0umMg/edit?usp=sharing 
 
 ### ✿ Desarrollo
