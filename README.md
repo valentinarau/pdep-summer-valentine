@@ -4,8 +4,8 @@ Bienvenidx, este es un espacio donde voy a compartir mi curso sobre la Paradigma
 ## Como va a ser el curso?
 
 ### ✿ Introduccion
-En la siguiente presentacion, introducire los principales paradigmas, conceptos fundamentales y transversales a la materia <br>
-Link: https://docs.google.com/presentation/d/1u7GGNxO8wPSYDEu63R-BXcCFPnksZjcytdzWYj0umMg/edit?usp=sharing 
+En la [siguiente presentacion](https://docs.google.com/presentation/d/1u7GGNxO8wPSYDEu63R-BXcCFPnksZjcytdzWYj0umMg/edit?usp=sharing), introducire los principales paradigmas, conceptos fundamentales y transversales a la materia <br>
+ 
 
 ### ✿ Desarrollo
 A lo largo del curso vamos a hacer un paso a paso de la instalacion de cada lenguaje, la explicacion de cada paradigma y muchos ejercicios! <br>
