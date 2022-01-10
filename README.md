@@ -10,7 +10,7 @@ En la [siguiente presentacion](https://docs.google.com/presentation/d/1u7GGNxO8w
 ### ✿ Desarrollo
 A lo largo del curso vamos a hacer un paso a paso de la instalacion de cada lenguaje, la explicacion de cada paradigma y muchos ejercicios! <br>
 En cada carpeta encontraras los ejercicios relacionados a cada lenguaje, la guia de instalacion y los links a las slides C: <br>
-Luego el proposito es que las clases sean una parte teorica y una practica, donde escribiremos codigo juntxs!╰ (͡ ° ͜ʖ ͡ °) つ ── ☆ *: ・ ﾟ
+Luego el proposito es que las clases sean una parte teorica y una practica, donde escribiremos codigo juntxs!<br>╰ (͡ ° ͜ʖ ͡ °) つ ── ☆ *: ・ ﾟ
 
 ### ✿ Que hago ahora?
 
