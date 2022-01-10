@@ -14,5 +14,5 @@ Luego el proposito es que las clases sean una parte teorica y una practica, dond
 
 ### ✿ Que hago ahora?
 
-Si aun lo lo hiciste, podes hacer un fork de este repositorio asi podemos comenzar este bello camino juntxs (づ ｡◕‿‿◕｡) づ
+Si aun lo lo hiciste, podes hacer un fork de este repositorio asi podemos comenzar este bello camino juntxs <br>(づ ｡◕‿‿◕｡) づ
 
