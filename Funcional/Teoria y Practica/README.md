@@ -1,8 +1,8 @@
-## Teoria
+## ✿ Teoria
 
 [Slides](https://docs.google.com/presentation/d/1Xl54Y4elxlhiIOtAVLGVq9JLv0ZIxtBzlAu29bCnxQ0/edit?usp=sharing)
 
-## Enunciados 
+## ✿ Enunciados 
 
 [Ejercicios Basicos](https://docs.google.com/document/d/15VME8b-t_jXznNpPaTevLM3ETlRUAX1cI79tg6TikXY/edit?usp=sharing)
 
