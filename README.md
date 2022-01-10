@@ -1,5 +1,5 @@
 # pdep-summer-valentine
-Bienvenidx, este es un espacio donde voy a compartir mi curso sobre la Paradigmas de Programación. 
+Bienvenidx, este es un espacio donde voy a compartir mi curso sobre la materia Paradigmas de Programación. 
 
 ## Como va a ser el curso?
 
